@@ -1,4 +1,4 @@
-package part1.chap3;
+package part1.chapter3;
 
 public class IncreaseDecreaseOperatorExample {
   public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package part1.chap2;
+package part1.chapter2;
 
 public class VariableInitializationExample {
   public static void main(String args[]) {
