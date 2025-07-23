@@ -1,4 +1,4 @@
-package step1;
+package part1;
 
 public class Calculator {
     public static void main(String args[]) {
@@ -7,4 +7,4 @@ public class Calculator {
         int result = x + y;
         System.out.println(result);
     }
-}
+}       
